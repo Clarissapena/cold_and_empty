@@ -47,7 +47,7 @@ Escribe aquí la descripción de las entradas del proyecto, por ejemplo, si de e
 ## Descripción de las salidas del avance de proyecto
 Escribe aquí la descripción de los resultados de la ejecución de tu programa.
 
-## Desarrollo de competencias
+## Desarrollo de competencias :sparkles:  
 
 ### SICT0301: Evalúa los componentes
 #### Hace un análisis de complejidad correcto y completo para los algoritmos de ordenamiento usados en el programa.
